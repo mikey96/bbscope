@@ -1,4 +1,4 @@
-module github.com/sw33tLie/bbscope
+module github.com/mikey96/bbscope
 
 go 1.16
 

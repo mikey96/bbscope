@@ -6,8 +6,8 @@ import (
 	"os"
 	"time"
 
+	"github.com/mikey96/bbscope/internal/utils"
 	"github.com/spf13/cobra"
-	"github.com/sw33tLie/bbscope/internal/utils"
 
 	homedir "github.com/mitchellh/go-homedir"
 	"github.com/spf13/viper"

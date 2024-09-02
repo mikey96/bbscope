@@ -6,8 +6,8 @@ import (
 	"sync"
 
 	"github.com/PuerkitoBio/goquery"
-	"github.com/sw33tLie/bbscope/pkg/scope"
-	"github.com/sw33tLie/bbscope/pkg/whttp"
+	"github.com/mikey96/bbscope/pkg/scope"
+	"github.com/mikey96/bbscope/pkg/whttp"
 	"github.com/tidwall/gjson"
 )
 

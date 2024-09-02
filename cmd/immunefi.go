@@ -1,9 +1,9 @@
 package cmd
 
 import (
+	"github.com/mikey96/bbscope/pkg/platforms/immunefi"
+	"github.com/mikey96/bbscope/pkg/whttp"
 	"github.com/spf13/cobra"
-	"github.com/sw33tLie/bbscope/pkg/platforms/immunefi"
-	"github.com/sw33tLie/bbscope/pkg/whttp"
 )
 
 // immunefiCmd represents the immunefi command

@@ -1,11 +1,11 @@
 package cmd
 
 import (
+	"github.com/mikey96/bbscope/internal/utils"
+	"github.com/mikey96/bbscope/pkg/platforms/bugcrowd"
+	"github.com/mikey96/bbscope/pkg/whttp"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
-	"github.com/sw33tLie/bbscope/internal/utils"
-	"github.com/sw33tLie/bbscope/pkg/platforms/bugcrowd"
-	"github.com/sw33tLie/bbscope/pkg/whttp"
 )
 
 // bcCmd represents the bc command
